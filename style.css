@@ -1,0 +1,22 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+body{
+    margin: 60px;
+}
+
+.sub{
+color: gray;
+margin: 10px;
+}
+.overall{
+    display: flex;
+    flex-wrap: wrap;
+}
+h6{
+    margin: 10px;
+}
+.card{
+    border: none;
+}
